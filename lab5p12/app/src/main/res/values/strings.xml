@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">lab5p1</string>
+    <string name="action_settings">Settings</string>
+    <string name="oncreate_1_i">OnCreate: %1$i</string>
+</resources>
