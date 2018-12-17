@@ -49,7 +49,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             }
         });
 
-        mMyCustomView = findViewById(R.id.mcv_01);
+        mMyCustomView = findViewById(R.id.mcv);
     }
 
     @Override
