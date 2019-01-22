@@ -35,6 +35,9 @@ public class ServiceClass extends IntentService{
 
     //helpers
     private void respondToActivity() {
+
+        Log.i("RESPOND TO ACTIVITY", "");
+
         mSecretNumber = operationQuicksand();
         Intent intentFromService = new Intent();
         intentFromService.setAction(ACTION_KEY);

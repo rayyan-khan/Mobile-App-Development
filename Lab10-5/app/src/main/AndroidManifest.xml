@@ -17,7 +17,7 @@
             </intent-filter>
         </activity>
         <service
-            android:name=".ServiceClass"
+            android:name=".blurService"
             android:exported="false"/>
     </application>
 
